@@ -1,0 +1,145 @@
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazan\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_2\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel1_3\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_1\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_2\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel2_3\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_1\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_2\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Opdracht project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.exe
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.deps.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.runtimeconfig.json
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\bin\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\refint\BibYazan.dll
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.pdb
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\BibYazan.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\Desktop\SCHOOL\AP Hogeschool\academiejaar 2023-24\OO Programmeren\2.Project\BibYazanDeel3_3\BibYazan\BibYazan\obj\Debug\net7.0\ref\BibYazan.dll

@@ -1,0 +1,21 @@
+The Great Gatsby;F. Scott Fitzgerald;1925-04-10;9798745274824;Fiction,Mystery;True
+To Kill a Mockingbird;Harper Lee;1960-07-11;9780061120084;Fiction;True
+1984;George Orwell;1949-06-08;9780451524935;Fiction;True
+The Hobbit;J.R.R. Tolkien;1937-09-21;9780618260300;Fiction;True
+The Catcher in the Rye;J.D. Salinger;1951-07-16;9780316769174;Fiction;True
+The Da Vinci Code;Dan Brown;2003-03-18;9780307474278;Mystery;True
+The Girl with the Dragon Tattoo;Stieg Larsson;2005-08-16;9780307454546;Mystery;True
+Sapiens: A Brief History of Humankind;Yuval Noah Harari;2011-02-10;9780062316097;History,NonFiction;True
+Thinking, Fast and Slow;Daniel Kahneman;2011-10-25;9780374533557;Psychology,NonFiction;True
+The Power of Habit;Charles Duhigg;2012-03-06;9780812981605;SelfHelp,NonFiction;True
+Harry Potter and the Sorcerer's Stone;J.K. Rowling;1997-06-26;9780590353427;Fiction,Fantasy;True
+To Kill a Mockingbird;Harper Lee;1960-07-11;9780061120084;Fiction;True
+The Lord of the Rings: The Fellowship of the Ring;J.R.R. Tolkien;1954-07-29;9780358439196;Fiction,Fantasy;True
+The Catcher in the Rye;J.D. Salinger;1951-07-16;9780316769174;Fiction;True
+The Shining;Stephen King;1977-01-28;9780385121675;Fiction,Horror;True
+The Hitchhiker's Guide to the Galaxy;Douglas Adams;1979-10-12;9780345391803;Fiction,ScienceFiction;True
+The Hunger Games;Suzanne Collins;2008-09-14;9780439023528;Fiction,Adventure;True
+Dune;Frank Herbert;1965-06-01;9780593548905;Fiction,ScienceFiction;True
+The Great Gatsby;F. Scott Fitzgerald;1925-04-10;9798351145013;Fiction,Mystery;True
+Brave New World;Aldous Huxley;1932-01-01;9780060850524;Fiction,Dystopian;True
+Programmeren OO;Ann De Brabandere;2023-09-19;9789098887830;Schoolboek;True
